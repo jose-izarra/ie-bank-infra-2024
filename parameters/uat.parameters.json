@@ -6,19 +6,19 @@
             "value": "nonprod"
         },
         "postgreSQLServerName": {
-            "value": "joseizarra-dbsrv-dev"
+            "value": "joseizarra-dbsrv-uat"
         },
         "postgreSQLDatabaseName": {
-            "value": "joseizarra-db-dev"
+            "value": "joseizarra-db-uat"
         },
         "appServicePlanName": {
-            "value": "joseizarra-asp-dev"
+            "value": "joseizarra-asp-uat"
         },
         "appServiceAPIAppName": {
-            "value": "joseizarra-be-dev"
+            "value": "joseizarra-be-uat"
         },
         "appServiceAppName": {
-            "value": "joseizarra-fe-dev"
+            "value": "joseizarra-fe-uat"
         },
         "location": {
             "value": "North Europe"
